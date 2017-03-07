@@ -1,0 +1,10 @@
+c:\users\utsab\documents\visual studio 2015\Projects\EmployeeMgmt\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+c:\users\utsab\documents\visual studio 2015\Projects\EmployeeMgmt\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+c:\users\utsab\documents\visual studio 2015\Projects\EmployeeMgmt\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+c:\users\utsab\documents\visual studio 2015\Projects\EmployeeMgmt\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+c:\users\utsab\documents\visual studio 2015\Projects\EmployeeMgmt\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\utsab\documents\visual studio 2015\Projects\EmployeeMgmt\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+c:\users\utsab\documents\visual studio 2015\Projects\EmployeeMgmt\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\utsab\documents\visual studio 2015\Projects\EmployeeMgmt\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+c:\users\utsab\documents\visual studio 2015\Projects\EmployeeMgmt\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+c:\users\utsab\documents\visual studio 2015\Projects\EmployeeMgmt\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
